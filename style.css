@@ -1,0 +1,28 @@
+#off{
+    background-color: red;
+    padding: 10px 20px;
+    color: #fff;
+}
+#on{
+    background-color: green;
+    padding: 10px 20px;
+    color: #fff;
+}
+
+#light{
+    width: 250px;
+}
+
+.container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container .inner{
+    margin-top: 50px;
+}
+.container .inner .button_grup{
+    display: flex;
+    justify-content: space-between;
+}
