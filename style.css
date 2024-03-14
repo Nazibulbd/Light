@@ -2,11 +2,13 @@
     background-color: red;
     padding: 10px 20px;
     color: #fff;
+    font-size: 20px;
 }
 #on{
     background-color: green;
     padding: 10px 20px;
     color: #fff;
+    font-size: 20px;
 }
 
 #light{
@@ -22,7 +24,7 @@
 .container .inner{
     margin-top: 50px;
 }
-.container .inner .button_grup{
+.container .inner .button_group{
     display: flex;
     justify-content: space-between;
 }
